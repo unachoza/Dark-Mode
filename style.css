@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css?family=Comfortaa|Kaushan+Script|Oswald&display=swap');
 
 :root {
-  --primary-color: #E81B51
-  --primary-variant: ##FF5B98;
+  --primary-color: #e81b51;
+  --primary-variant: ##ff5b98;
   --secondary-color: #1b9999;
   --on-primary: rgb(250, 250, 250);
   --on-background: rgb(66, 66, 66);
@@ -12,7 +12,7 @@
 }
 
 [data-theme='dark'] {
-  --primary-color: #9641ff; 
+  --primary-color: #9641ff;
   --primary-variant: #6c63ff;
   --secondary-color: #03dac5;
   --on-primary: #000;
